@@ -8,10 +8,6 @@ This pattern involves a single class which is responsible to creates own object 
 that only single object get created. This class provides a way to access its only object which can
 be accessed directly without need to instantiate the object of the class.
 
-We're going to create a SingleObject class. SingleObject class have its constructor as private and have a static instance of itself.
-SingleObject class provides world.SingletonPatternDemo, a SingleObject object. 
-
-
  */
 public class SingletonPatternDemo {
 
