@@ -1,7 +1,7 @@
 package org.hieu.singleton;
 
 /**
- * @author root
+ * @author hieu
  * Singleton pattern is one of the simplest design patterns in Java. This type of design pattern
 comes under creational pattern as this pattern provides one of the best way to create an object.
 This pattern involves a single class which is responsible to creates own object while making sure

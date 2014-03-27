@@ -2,7 +2,7 @@ package org.hieu.abstractFactory;
 
 
 /**
- * @author root
+ * @author hieu
  * 
  * Abstract Factory patterns works around a super-factory which creates other factories. This
 factory is also called as Factory of factories. This type of design pattern comes under creational
